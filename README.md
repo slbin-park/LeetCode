@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/slbin-park/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/slbin-park/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/slbin-park/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
