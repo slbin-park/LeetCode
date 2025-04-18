@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/slbin-park/LeetCode/tree/master/1656-count-good-triplets) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/slbin-park/LeetCode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
