@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/slbin-park/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/slbin-park/LeetCode/tree/master/0868-push-dominoes) |
 ## Enumeration
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/slbin-park/LeetCode/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/slbin-park/LeetCode/tree/master/0868-push-dominoes) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/slbin-park/LeetCode/tree/master/0797-rabbits-in-forest) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/slbin-park/LeetCode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
